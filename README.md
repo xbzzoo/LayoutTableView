@@ -1,6 +1,7 @@
 # LayoutTableView
 Tableview嵌套CollectionView 高度自适应
 
+![图](https://github.com/Sunyangl/LayoutTableView/blob/master/1559214980324.jpg)
 
 
 敲黑板：
